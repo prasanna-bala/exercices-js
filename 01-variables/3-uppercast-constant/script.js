@@ -2,3 +2,7 @@
       - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
       - N'oubliez pas de sauvegarder pour afficher les changements.
 */
+const BIRTHDAY = '18.04.1982';
+
+const AGE = someCode(BIRTHDAY);
+alert(AGE);
